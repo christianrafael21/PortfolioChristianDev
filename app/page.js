@@ -92,7 +92,7 @@ export default function Home() {
       <section className={styles.hero}>
         <div className={styles.heroContent}>
           <div className={styles.heroImage}>
-            <img src="/profile.jpg" alt="Christian Rafael de Oliveira Coelho" />
+            <img src="/PortfolioChristianDev/profile.jpg" alt="Christian Rafael de Oliveira Coelho" />
           </div>
           <h1 className={styles.heroTitle}>
             Christian Rafael de Oliveira Coelho

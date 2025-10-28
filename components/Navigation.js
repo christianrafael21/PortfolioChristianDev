@@ -38,7 +38,7 @@ export default function Navigation() {
       <div className={styles.container}>
         <Link href="/" className={styles.logo}>
           <div className={styles.logoImage}>
-            <img src="/profile.jpg" alt="Christian Coelho" />
+            <img src="/PortfolioChristianDev/profile.jpg" alt="Christian Coelho" />
           </div>
           <span className={styles.logoText}>Christian Coelho</span>
         </Link>
